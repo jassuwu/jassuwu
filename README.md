@@ -8,6 +8,7 @@
 
 ### toys
 
+- **[ass](https://github.com/jassuwu/ass)** — a photorealistic ass in a black void, with obsessively real soft-body physics. that's the site
 - **[onandemo.js](https://github.com/jassuwu/onandemo.js)** — oneko.js, but anything chases your cursor
 - **[savemefrom](https://github.com/jassuwu/savemefrom)** — paste a url, vergil slices the page to pieces
 - **[incomerank](https://github.com/jassuwu/incomerank)** — your income vs everyone on earth. how rich are u really
