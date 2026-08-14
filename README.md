@@ -1,6 +1,6 @@
 ### things
 
-- **[andrew-dictate](https://github.com/jassuwu/andrew-dictate)** — escape the keyboard. the top g of local speech-to-text for macOS — free and fully private
+- **[andrew-dictate](https://github.com/jassuwu/andrew-dictate)** — my take on a simpler, free wisprflow. escape the keyboard
 - **[better-splitwise](https://github.com/jassuwu/better-splitwise)** — scan a receipt, split the bill by item, push it to splitwise
 - **[mojify](https://github.com/jassuwu/mojify)** — turn media into text. videos in, colored ascii/emoji out
 - **[quilt](https://github.com/jassuwu/quilt)** — all your github accounts, one contribution graph
