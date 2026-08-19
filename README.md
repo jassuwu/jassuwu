@@ -9,6 +9,7 @@
 ### toys
 
 - **[ass](https://github.com/jassuwu/ass)** — (‿ˠ‿)
+- **[music-to-my-ai](https://github.com/jassuwu/music-to-my-ai)** — your ai talks, this plays it. one note per chunk of the reply
 - **[onandemo.js](https://github.com/jassuwu/onandemo.js)** — oneko.js, but anything chases your cursor
 - **[savemefrom](https://github.com/jassuwu/savemefrom)** — paste a url, vergil slices the page to pieces
 - **[incomerank](https://github.com/jassuwu/incomerank)** — your income vs everyone on earth. how rich are u really
